@@ -40,7 +40,7 @@ export default StyleSheet.create({
     },
     displayValue: {
         fontFamily: 'BowlbyOne',
-        fontSize: 50,
+        fontSize: 60,
         color: '#fff'
     }
 })
